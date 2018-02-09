@@ -1,0 +1,27 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "a design-pattern library for javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcbhkjzw/design-pattern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcbhkjzw/design-pattern/issues"
+  },
+  "homepage": "https://github.com/lcbhkjzw/design-pattern#readme",
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}
